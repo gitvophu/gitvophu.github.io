@@ -1,0 +1,69 @@
+ 
+
+# Các nội dung cần có cho profile
+1. Thông tin cá nhân
+    Lời giới thiệu sương sương, 
+    - Xin chào, tôi là một lập trình viên. Thế mạnh của tôi là ngôn ngữ PHP. Ngoài ra tôi cũng có thể làm việc với nhiều ngôn ngữ khác nhau như là NodeJS, ReactJS/React Native ...Tôi đã làm việc ở nhiều công ty phần mềm và tham gia nhiều dự án khác nhau. Tôi là người rất yêu thích công nghệ và luôn có khao khát học hỏi, tiếp thu những kiến thức mới. Với tôi, mục tiêu mỗi ngày là trở thành phiên bản tốt hơn của bản thân, không ngừng học hỏi và phát triển.
+
+    họ tên, 
+    địa chỉ, 
+    Ngày sinh
+    email
+    phone
+    Link download CV
+    Số project đã tham gia
+    Chuẩn bị logo các công nghe sử dụng
+2. Học vấn
+    - Thông tin trường 
+    - Ngành Học
+    - Năm học
+    - Giới thiệu sơ về quá trình học
+    Tốt nghiệp chuyên ngành kỹ thuật phần mềm, được đào tạo về các kiến thức tổng quan của ngành phần mềm, các loại ngôn ngữ phổ biến C++, C#, Java, PHP, Javascript và các framework mới, được rèn luyện các kỹ năng mềm, kỹ năng làm việc, khả năng tư duy, giải quyết vấn đề.
+    - Học bổng, kỳ thi tham gia
+    Từng 2 lần đạt học bổng học tập 
+    Đạt giải nhất cuộc thì thiết kế web của trường
+3. Kinh nghiệm làm việc
+    - Tên công ty
+    - Vị trí 
+    - Thời gian làm việc
+    - Tóm tắt quá trình làm việc
+---------
+    **Công ty TNHH Poste
+    05/2018 - 08/2018
+    Intern Web Front-end Developer
+    Khóa thực tập đợt 1, tôi bắt đầu làm việc với công ty đầu tiên của mình. Đây là một công ty Nhật chuyên về thông tin và quảng cáo.
+    Tôi tham gia vào việc phát triển website của công ty là một website tin tức dành cho người Nhật. Vai trò của tôi là thiết kế, chỉnh sửa giao diện cho hệ thống, sử dụng các thư viện front-end xây dựng các hiệu ứng chuyển động, tích hợp API Google Map vào hệ thống.
+
+    **Công ty TNHH Giải Pháp & Công Nghệ TNK
+    11/2018 - 02/2019
+    Intern PHP Developer
+    Khóa thực tập đợt 2, TNK là một công ty phần mềm, đang phát triển hệ thống quản lý vận tải.
+    Tôi tham gia trực tiếp dự án quản lý vận tải của công ty.Vai trò của tôi là phát triển các chức năng quản lý, phân quyền hệ thống, nhập xuất file, phân tích cơ sở dữ liệu, thiết kế giao diện.
+
+    ** Công ty TNHH P.A Việt Nam
+    05/2019 - 03/2020
+    PHP Developer
+    Tôi bắt đầu làm việc tại công ty sau khi tốt nghiệp. Tôi tham gia vào nhiều hệ thống website của công ty như là hệ thống web chat trực tuyến, hệ thống CRM, hệ thống web support. 
+    Tôi giữ vai trò nâng cấp, phát triển thêm các chức năng mới, sửa lỗi, chỉnh sửa giao diện, phân tích hệ thống, tối ưu code. 
+
+    ** Công ty cổ phần Việt Vang
+    03/2020 - Hiện tại
+    PHP Developer
+    Tôi bắt đầu làm việc tại công ty sau khi rời P.A Việt Nam. Việt Vang là một công ty outsource, chuyên nhận các dự án web, app từ khách hàng trong nước và nước ngoài. 
+    Tôi tham gia xây dựng các dự án mới, có vai trò là phân tích yêu cầu khách hàng, phân tích thiết kế hệ thống, thiết kế giao diện, phát triển các tính năng, bảo trì, sửa lỗi, tối ưu code.
+
+
+
+
+
+
+
+4. Kỹ năng 
+    - Ghi ra hết các kỹ năng, công nghệ biết và sử dụng được.
+
+5. Projects
+    - Thống kê lại và liệt kê lại toàn bộ các project lớn nhỏ đã tham gia
+    - Mỗi project sẽ có 1 bài viết, mô tả, hình ảnh minh họa chi tiết.
+
+    
+
